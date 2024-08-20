@@ -70,6 +70,9 @@ This project is designed to manage employee data within a company, including dep
 **Self-Referential:**
 - The `manager_id` in the Employees table is a foreign key that references the `id` in the same Employees table, indicating that an employee can manage other employees.
 
+
+![Employee Management System Overview]("C:\Users\ASUS\Downloads\drawSQL-image-export-2024-08-20.png" "Employee Management System Overview")
+
 ---
 
 ## Application Design
